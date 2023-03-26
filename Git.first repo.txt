@@ -1,0 +1,11 @@
+Introduction to Python Automation
+Basics Logical, Arithmetical, and String operations
+Regular expressions
+Tuple
+List
+Deque
+Python Sets
+Python Dictionaries
+If else statement
+For loop
+While loop
