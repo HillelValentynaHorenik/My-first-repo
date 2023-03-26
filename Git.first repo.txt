@@ -1,11 +1,6 @@
-Introduction to Python Automation
-Basics Logical, Arithmetical, and String operations
-Regular expressions
-Tuple
-List
-Deque
-Python Sets
-Python Dictionaries
-If else statement
-For loop
-While loop
+1.Создайте учетную запись на гитхабе
+2.Создать репозиторий
+3.Добавьте туда любой текстовый файл (.txt)
+4.Сделал некоторые изменения в этом файле
+5.Добавить обновленный файл в репозиторий
+6.Прикрепите ссылку на свой репозиторий в LMS
