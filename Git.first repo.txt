@@ -1,6 +1,6 @@
-1.Создайте учетную запись на гитхабе
-2.Создать репозиторий
-3.Добавьте туда любой текстовый файл (.txt)
-4.Сделал некоторые изменения в этом файле
-5.Добавить обновленный файл в репозиторий
-6.Прикрепите ссылку на свой репозиторий в LMS
+1.Create an account on github
+2.Create repository
+3.Add there any text file (.txt)4.
+5.Made some changes in that file
+6.Add updated file to the repo
+7.Attach link to your repo to LMS
